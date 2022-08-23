@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 ### Olá 👋, me chamo Lucas!
 
 - 🌱 Estou estudando python e suas bibliotecas, com foco em Data Science e Data Analitycs
