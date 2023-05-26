@@ -2,7 +2,6 @@
 
 - 🌱 Estou estudando python e suas bibliotecas, com foco em Data Science e Data Analitycs
 - 📫 Contate-me pelo email: lucas17santos.z@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/LUCAS-01SANTOS">
