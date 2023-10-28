@@ -6,16 +6,11 @@
 
 <div align="center">
    <a href="https://github.com/LUCAS-01SANTOS">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCAS-01SANTOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact&theme=synthwave"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCAS-01SANTOS&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div >
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 ----
 
 ### Projetos de Portfólio
