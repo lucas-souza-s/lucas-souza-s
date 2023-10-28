@@ -1,12 +1,12 @@
 ### Olá, eu chamo Lucas!
 
 - Sempre me estudando em tecnologia e mercado financeiro, com foco em Data Science e Data Analyecs
-- E-mail Contate-me pelo !(Linkedin)[https://www.linkedin.com/in/lucas-souza-santos-709453165]
+- E-mail Contate-me pelo ![Linkedin](https://www.linkedin.com/in/lucas-souza-santos-709453165)
 
 <div alinhar="centro">
   <a href="https://github.com/LUCAS-01SANTOS">
-  <img altura="180em" src="https://github-readme-stats.vercel.app/api?nome de usuário = LUCAS-01SANTOS&show_icons = verdade&tema = escuro&include_all_commits = true&count_private = true "/>
-  <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS&layout = compactar&langs_count = 7&tema = escuro "/>
+  <img altura="180em" src="https://github-readme-stats.vercel.app/api?nome do usuário = LUCAS-01SANTOS&show_icons = verdade&tema = escuro&include_all_commits = true&count_private = true "/>
+  <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?nome do usuário = LUCAS-01SANTOS&layout = compactar&langs_count = 7&tema = escuro "/>
 </div >
   
 <div estilo="exibição: inline_block"><br>
