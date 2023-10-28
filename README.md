@@ -3,7 +3,13 @@
 - Sempre me atualizando e estudando tecnologias e mercados financeiros, com foco em Data Science e Data Analyecs
 - Contate-me pelo <a href="https://www.linkedin.com/in/lucas-souza-santos-709453165" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a>
 - Acesse [meu site pessoal](https://lucas-digital-garden.vercel.app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  [[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS & layout = compactar)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <div alinhar="centro">
   <a href="https://github.com/LUCAS-01SANTOS">
   <img altura="180em" src="https://github-readme-stats.vercel.app/api?nome do usuário = LUCAS-01SANTOS&show_icons = verdade&tema = escuro&include_all_commits = true&count_private = true "/>
