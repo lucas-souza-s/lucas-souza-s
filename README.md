@@ -4,10 +4,10 @@
 - Contate-me pelo <a href="https://www.linkedin.com/in/lucas-souza-santos-709453165" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a>
 - Acesse [meu site pessoal](https://lucas-digital-garden.vercel.app)
 
-<div>
-  [[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS & layout = compactar)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+<div alinhar="esquerda">
+ [[!Principais idiomas] (https://github-readme-stats.vercel.app/api/top-langs/?nome do usuário = LUCAS-01SANTOS e layout = compactar)] (https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS)] (https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS & hide = javascript, ht)] (https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div alinhar="centro">
