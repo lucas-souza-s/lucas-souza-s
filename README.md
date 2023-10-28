@@ -4,11 +4,9 @@
 - Contate-me pelo <a href="https://www.linkedin.com/in/lucas-souza-santos-709453165" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a>
 - Acesse [meu site pessoal](https://lucas-digital-garden.vercel.app)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center">
    <a href="https://github.com/LUCAS-01SANTOS">
