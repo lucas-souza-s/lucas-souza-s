@@ -4,17 +4,18 @@
 - Contate-me pelo <a href="https://www.linkedin.com/in/lucas-souza-santos-709453165" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a>
 - Acesse [meu site pessoal](https://lucas-digital-garden.vercel.app)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
    <a href="https://github.com/LUCAS-01SANTOS">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compact"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCAS-01SANTOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compress&langs_count=7&theme=dark"/>
 </div >
-  
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 ----
 
 ### Projetos de Portfólio
