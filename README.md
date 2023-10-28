@@ -5,23 +5,22 @@
 - Acesse [meu site pessoal](https://lucas-digital-garden.vercel.app)
 
 <div alinhar="esquerda">
- [[!Principais idiomas] (https://github-readme-stats.vercel.app/api/top-langs/?nome do usuário = LUCAS-01SANTOS e layout = compactar)] (https://github.com/anuraghazra/github-readme-stats)
+ [[!Idiomas principais] (https://github-readme-stats.vercel.app/api/top-langs/?nome do usuário = LUCAS-01SANTOS e layout = compactar)] (https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS)] (https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?nome de usuário = LUCAS-01SANTOS & hide = javascript, ht)] (https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div >
 
-<div alinhar="centro">
-  <a href="https://github.com/LUCAS-01SANTOS">
-  <img altura="180em" src="https://github-readme-stats.vercel.app/api?nome do usuário = LUCAS-01SANTOS&show_icons = verdade&tema = escuro&include_all_commits = true&count_private = true "/>
-  <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?nome do usuário = LUCAS-01SANTOS&layout = compactar&langs_count = 7&tema = escuro "/>
+<div align="center">
+   <a href="https://github.com/LUCAS-01SANTOS">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCAS-01SANTOS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS-01SANTOS&layout=compress&langs_count=7&theme=dark"/>
 </div >
   
-<div estilo="exibição: inline_block"><br>
-  <img alinhar="centro" alt="Lucas-Python" altura="40" largura="50" src="https://raw.githubusercontent.com/devicon/devicon/master/icons/python/python-original.svg">
-  <img alinhar="centro" alt="Lucas-Pandas" altura="40" largura="50" src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img alinhar="centro" alt="Lucas-Pandas" altura="40" largura="50" src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<div style="display: inline_block"><br>
+   <img align="center" alt="Lucas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicon/devicon/master/icons/python/python-original .svg">
+   <img align="center" alt="Lucas-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/pandas/pandas-original -wordmark.svg" />
+   <img align="center" alt="Lucas-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicon/devicon/icons/jupyter/jupyter-original -wordmark.svg" />
 </div >
-
 ----
 
 ### Projetos de Portfólio
