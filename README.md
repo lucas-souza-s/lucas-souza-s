@@ -1,7 +1,7 @@
 ### Olá, eu chamo Lucas!
 
 - Sempre me estudando em tecnologia e mercado financeiro, com foco em Data Science e Data Analyecs
-- E-mail Contate-me pelo ![Linkedin](https://www.linkedin.com/in/lucas-souza-santos-709453165)
+- E-mail Contate-me pelo [!Linkedin](https://www.linkedin.com/in/lucas-souza-santos-709453165) <a href="https://www.linkedin.com/in/lucas-souza-santos-709453165" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a><a href="https://www.linkedin.com/in/lucas-souza-santos-709453165" alvo="_em branco"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco " alvo="_em branco"></a>
 
 <div alinhar="centro">
   <a href="https://github.com/LUCAS-01SANTOS">
