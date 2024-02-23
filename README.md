@@ -11,4 +11,4 @@
 
 ### Projetos de Portfólio
 
-Vejam os repositórios públicos!
+Vejam os repositórios fixados!
