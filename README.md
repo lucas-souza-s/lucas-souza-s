@@ -11,4 +11,4 @@
 
 ### Projetos de Portfólio
 
-- Análise de dados com Pandas no Google Colab : [Analisando dados de uma Loja de câmeras e acessórios](https://github.com/lucas-souza-s/lucas-souza-s/blob/main/Analisando_Dados_de_Uma_Loja_de_C%C3%A2meras_Fotogr%C3%A1ficas_e_Acess%C3%B3rios.ipynb)
+Vejam os repositórios públicos!
