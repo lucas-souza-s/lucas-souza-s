@@ -7,7 +7,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>      
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" style="width: 50px; height: 50px; margin-right: 30px;"/>
+          
 </div>
 
 ## Contatos
